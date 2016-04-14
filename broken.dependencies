@@ -1,0 +1,21 @@
+[
+    {
+        "remote":      "github",
+        "repository":  "cooks8/android_device_samsung_smdk4412-common",
+        "target_path": "device/samsung/smdk4412-common",
+        "branch":      "m6.0"
+    },
+    {
+        "remote":      "github",
+        "repository":  "cooks8/android_device_samsung_lt01-common",
+        "target_path": "device/samsung/lt01-common",
+        "branch":      "m6.0"
+    },
+    {
+        "remote":      "github",
+        "repository":  "cooks8/android_kernel_samsung_smdk4x12",
+        "target_path": "kernel/samsung/smdk4x12",
+        "branch":      "m6.0"
+    }
+
+]
